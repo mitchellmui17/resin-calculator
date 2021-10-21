@@ -6,7 +6,7 @@ import '../App.css';
 
 export default function NavBar(){
         return (
-            <>
+            <div className="NavBar">
                 <Navbar bg="dark" variant="dark">
                     
                         <Navbar.Brand>
@@ -28,7 +28,7 @@ export default function NavBar(){
                             </Nav>
                 
                 </Navbar>
-            </>
+            </div>
         )
     
 }

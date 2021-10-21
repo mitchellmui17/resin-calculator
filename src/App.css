@@ -1,0 +1,23 @@
+.links{
+  text-decoration: none;
+  color: White;
+ 
+}
+.nav-box{
+  padding: 0px 10%;
+
+}
+
+#nav-box{
+  position: relative;
+  float: right;
+}
+.w-25{
+  width: 25%!important;
+}
+
+.navItems li{
+
+  display: inline-block;
+  padding-right:30px;
+}
